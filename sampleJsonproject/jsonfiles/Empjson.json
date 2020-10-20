@@ -1,0 +1,30 @@
+{
+
+"Empdetails" :[
+{
+"empname": "john",
+"Empid" : "100",
+"Dept" :"IT"
+},
+
+{
+"empname": "Singh",
+"Empid" : "102",
+"Dept" :"Admin"
+},
+
+{
+"empname": "abc",
+"Empid" : "103",
+"Dept" :"Accounts"
+},
+
+{
+"empname": "xyz",
+"Empid" : "104",
+"Dept" :"IT"
+}
+]
+
+}
+

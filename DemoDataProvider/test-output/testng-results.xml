@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="871" started-at="2020-09-28T15:37:28 IST" finished-at="2020-09-28T15:37:29 IST">
+  <suite name="Default suite" duration-ms="1057" started-at="2020-09-28T17:04:33 IST" finished-at="2020-09-28T17:04:35 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="871" started-at="2020-09-28T15:37:28 IST" finished-at="2020-09-28T15:37:29 IST">
+    <test name="Default test" duration-ms="1057" started-at="2020-09-28T17:04:33 IST" finished-at="2020-09-28T17:04:35 IST">
       <class name="com.atmecs.dataproviderdemo.ReadExcelDataTest">
-        <test-method status="PASS" signature="ExcelData()[pri:0, instance:com.atmecs.dataproviderdemo.ReadExcelDataTest@7791a895]" name="ExcelData" duration-ms="812" started-at="2020-09-28T15:37:28 IST" finished-at="2020-09-28T15:37:29 IST">
+        <test-method status="PASS" signature="ExcelData()[pri:0, instance:com.atmecs.dataproviderdemo.ReadExcelDataTest@7791a895]" name="ExcelData" duration-ms="948" started-at="2020-09-28T17:04:34 IST" finished-at="2020-09-28T17:04:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExcelData -->
